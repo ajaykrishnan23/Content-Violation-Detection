@@ -23,7 +23,7 @@ This achieved an accuracy of **83% using purely unlabaled data** and **a single 
 
 ### Text Toxicity Prediction
 
-#### Text Model has been used in [CODAR](https://github.com/axenhammer/CODAR) 
+#### Text Model has been deployed in [CODAR](https://github.com/axenhammer/CODAR) 
 
 The text classification model is built to predict the toxicity of texts to pre-emptively prevent any occurrence of cyberbullying and harassment before they tend to occur. We're using **BERT to overcome the current challenges including understanding the context of text so as to detect sarcasm and cultural references, as it uses Stacked Transformer Encoders and Self-Attention Mechanism to understand the relationship between words and sentences, the context from a given sentence**. A combination of datasets have been used for this purpose. 
 
